@@ -20,7 +20,3 @@
 <p align="left">🛠️ Technologies et outils :<br><br>・ Traduction: JavaScript, Python, Bash<br>・ Frameworks et bibliothèques : Node.js, Express.js Discord.js<br>・ Contrôle de version : Git, GitHub<br>・ Bases: MongoDB, MySQL<br>・ Outils de développement : Visual Studio Code</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/s4nodev/s4nodev/output/snake.svg" alt="Snake animation" />
-
-###
